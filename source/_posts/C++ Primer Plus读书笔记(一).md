@@ -1,5 +1,5 @@
 ---
-title: C++ Primer Plus 读书笔记(一).
+title: C++ Primer Plus 读书笔记(一)
 ---
 
 ## 第二章：开始学习C++
