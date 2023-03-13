@@ -1,5 +1,5 @@
 ---
-title LeetCode基础——数组
+title: LeetCode基础——数组
 ---
 
 # leetcode
