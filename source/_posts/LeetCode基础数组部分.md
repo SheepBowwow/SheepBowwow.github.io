@@ -1,5 +1,6 @@
 ---
 title: LeetCode基础——数组
+date: 2023-03-13
 ---
 
 # leetcode
